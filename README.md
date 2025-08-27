@@ -87,17 +87,6 @@ MAX_WORKERS = 30    # threads for concurrency
 ## ⚡ Example Run
 we run and found the correct code that sents back the cookie
 
-<img width="926" height="245" alt="Screenshot_2025-08-27_23_22_19" src="https://github.com/user-attachments/assets/fcce141f-b1b7-4211-bd8a-c237c8594863" />
-
-we replace our cookie with the found cookie
-<img width="1920" height="1080" alt="Screenshot_2025-08-27_23_16_46" src="https://github.com/user-attachments/assets/c876f809-9896-4621-b0f2-44303587d69f" />
-
-now we go back to the main page and go to my account 
-boom we got carlos's account
-
-<img width="1920" height="1080" alt="Screenshot_2025-08-27_23_19_51" src="https://github.com/user-attachments/assets/2628f4e7-f366-4ef5-9193-47dc72a67f98" />
-
-
 ```
 Target: https://0a5a00b5047ee854809c7688004000f5.web-security-academy.net | username: carlos | concurrency: 30
 
@@ -113,5 +102,18 @@ Valid Cookie: session=AbCdEf123456789; Secure; HttpOnly
 ```
 
 ---
+
+
+<img width="926" height="245" alt="Screenshot_2025-08-27_23_22_19" src="https://github.com/user-attachments/assets/fcce141f-b1b7-4211-bd8a-c237c8594863" />
+
+we replace our cookie with the found cookie
+<img width="1920" height="1080" alt="Screenshot_2025-08-27_23_16_46" src="https://github.com/user-attachments/assets/c876f809-9896-4621-b0f2-44303587d69f" />
+
+now we go back to the main page and go to my account 
+boom we got carlos's account
+
+<img width="1920" height="1080" alt="Screenshot_2025-08-27_23_19_51" src="https://github.com/user-attachments/assets/2628f4e7-f366-4ef5-9193-47dc72a67f98" />
+
+
 
 
