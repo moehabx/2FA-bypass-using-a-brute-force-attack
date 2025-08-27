@@ -66,7 +66,7 @@ This script simulates the full login flow for each code until the correct one is
 
 
 ```bash
-git clone https://github.com/<your-username>/portswigger-2fa-bruteforce.git
+git clone https:/moehabx/github.com//portswigger-2fa-bruteforce.git
 cd portswigger-2fa-bruteforce
 pip install -r requirements.txt
 
